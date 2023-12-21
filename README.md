@@ -1,5 +1,18 @@
 # Backend Overview
 
+- **Backend:**
+  - [Node.js](https://nodejs.org/)
+  - [Express.js](https://expressjs.com/)
+  - [NodeMailer](https://nodemailer.com/)
+
+- **Database:**
+  - [MongoDB Atlas](https://www.mongodb.com/)
+  
+- **Hosting:**
+  - **Frontend:** [Vercel](https://dairfrontend-mehraankush.vercel.app/)
+  - **Backend:** [AWS EC2](https://aws.amazon.com/ec2/)
+
+
 This backend is built using Node.js and Express.js, providing a robust foundation for handling server-side operations. The data is stored in MongoDB, ensuring efficient and scalable data management. The deployment is hosted on AWS EC2, offering a reliable and scalable infrastructure.
 
 ## Authentication
