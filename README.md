@@ -48,7 +48,7 @@ npm install
 ### ENV steup
 ```javascript
 
-# PASSPORT.JS CREDS 
+#PASSPORT.JS CREDS 
 GOOGLE_CLIENT_ID=hsvdnfvsnv
 GOOGLE_CLIENT_SECRET=mavvbndvbcsnbn badam,
 
@@ -57,15 +57,15 @@ GITHUB_CLIENT_SECRET=bnavefvcnervfh
 
 MAGIC_LINK_SECRET='Dairihavehopes'
 
-# RE-DIRECT URL 
+#RE-DIRECT URL 
 CLIENT_URL=http://localhost:3000
 SERVER_URL=http://localhost:4000
 
-# NODEMAILER
+#NODEMAILER
 EMAIL_ID=example@gmail.com
 APP_PASSWORD=nmbdfbebhvem
 
-# MONGODB DATABASE
+#MONGODB DATABASE
 MONGO_URL=mongodb+srv:/kjbsvdfbsvbnbvndsddjbvdwqjkl
 
 #Encrption Secret
