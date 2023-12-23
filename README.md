@@ -38,3 +38,36 @@ The backend is deployed on AWS EC2, utilizing Amazon's cloud infrastructure. Thi
 3. **Continuous Monitoring:** AWS EC2 provides monitoring capabilities to track the performance of the backend application, allowing for proactive management and quick resolution of any issues.
 
 ![Flow Chart](https://github.com/mehraankush/TypeScript/blob/main/dair/Screenshot%202023-12-21%20160226.png)
+
+## Setup
+```git
+git clone https://github.com/mehraankush/dairbackend
+npm install
+```
+
+### ENV steup
+```javascript
+
+# PASSPORT.JS CREDS 
+GOOGLE_CLIENT_ID=hsvdnfvsnv
+GOOGLE_CLIENT_SECRET=mavvbndvbcsnbn badam,
+
+GITHUB_CLIENT_ID=jhavegfvgvnd
+GITHUB_CLIENT_SECRET=bnavefvcnervfh
+
+MAGIC_LINK_SECRET='Dairihavehopes'
+
+# RE-DIRECT URL 
+CLIENT_URL=http://localhost:3000
+SERVER_URL=http://localhost:4000
+
+# NODEMAILER
+EMAIL_ID=example@gmail.com
+APP_PASSWORD=nmbdfbebhvem
+
+# MONGODB DATABASE
+MONGO_URL=mongodb+srv:/kjbsvdfbsvbnbvndsddjbvdwqjkl
+
+#Encrption Secret
+SALT_SECRET='DAIRIHAVEHOPES'
+```
